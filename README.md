@@ -1,4 +1,4 @@
-## This project is Object Oriented Analysis and Design CN341
+## This project is Object Oriented Analysis and Design CN341 final exam
 # Hotel-Management
 
 using singleton design pattern
